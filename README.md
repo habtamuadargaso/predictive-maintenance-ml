@@ -1,10 +1,3 @@
-Perfect 👍 — your content is correct.
-I just fixed the **small markdown issue** (extra backticks around the dataset path).
-
-👉 **Copy THIS version below (clean & ready)**
-👉 Paste into GitHub README → Commit.
-
----
 
 ## ✅ FINAL CLEAN README (COPY THIS)
 
