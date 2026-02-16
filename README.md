@@ -1,5 +1,5 @@
 
-## ✅  README 
+## Predictive Maintenance — AI4I 2020 (Machine Failure Prediction)
 
 ```md
 # Predictive Maintenance — AI4I 2020 (Machine Failure Prediction)
