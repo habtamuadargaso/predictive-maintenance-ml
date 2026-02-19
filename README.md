@@ -117,17 +117,17 @@ Predictive_Maintenance_AI4I_2020.ipynb
 
 ---
 
+
 ## 📂 Project Structure
 
-predictive-maintenance-ml/
-│
-├── image/
-│ └── predictive_maintenance_system_diagram.png
-│
-├── Predictive_Maintenance_AI4I_2020.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
+| File / Folder | Description |
+|--------------|-------------|
+| `Predictive_Maintenance_AI4I_2020.ipynb` | Main notebook containing data analysis, preprocessing, modeling, and evaluation |
+| `images/` | Contains diagrams and visual assets used in the README |
+| `images/predictive_maintenance_system_diagram.png` | System workflow illustration |
+| `requirements.txt` | Python dependencies for reproducing the project |
+| `.gitignore` | Files excluded from version control |
+| `README.md` | Project documentation |
 
 
 ---
