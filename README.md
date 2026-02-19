@@ -1,3 +1,6 @@
+## System Architecture
+
+![Predictive Maintenance System](image/predictive_maintenance_system_diagram.png)
 
 ## Predictive Maintenance — AI4I 2020 (Machine Failure Prediction)
 
